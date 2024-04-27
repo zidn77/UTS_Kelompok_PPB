@@ -12,4 +12,4 @@ Ridho Rahmaesa (2211102441018)
 
 
 
-Jika terdapat eror, jangan lupa run (flutter pub get) terlebih dahulu
+Jika terdapat eror, jangan lupa run (flutter pub get) terlebih dahulu di terminal vscode
